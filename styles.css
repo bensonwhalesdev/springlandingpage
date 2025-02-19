@@ -232,11 +232,14 @@ nav{
 }
 .card{
     width: 230px;
-    height: 300px;
+    
     border: 2px solid black;
     text-align: center;
     padding: 20px;
     margin-bottom: 20px;
+}
+.card a{
+    padding: 20px;
 }
 .card:hover{
     transform: scale(1.1);
